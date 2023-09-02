@@ -1,0 +1,1 @@
+# Se debe dar npm install y correr el comando "npm run start" en la consola del sistema para poder apreciar la app
